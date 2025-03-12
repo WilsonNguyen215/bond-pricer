@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    max-width: 600px;
+}
+h1 { text-align: center; }
+label { display: inline-block; width: 150px; }
+input { width: 200px; padding: 5px; }
+button { padding: 10px 20px; margin-top: 10px; }
+#result { margin-top: 20px; font-size: 1.2em; }
